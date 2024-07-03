@@ -1,0 +1,14 @@
+.sidebar-container{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    border: 1px solid #0000EE;
+    max-width: 45px;
+}
+
+.icons{
+    margin: 5px 5px 5px 5px;
+    color: #0000EE;
+    font-size: 30px;
+    border: 1px solid #0000EE;
+}

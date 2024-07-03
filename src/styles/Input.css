@@ -1,0 +1,50 @@
+.input-container{
+    width: 70vh;
+    border: 1px solid #0000EE;
+    margin: 10px 1px 10px 0;
+}
+
+.navbar-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+}
+
+.right-container{
+    border: 1px solid #0000EE;
+    width: 60vh;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 40px;
+}
+
+.right-container button{
+    margin: 5px;
+}
+
+.run-btn{
+    background-color: #0000EE;
+    color: white;
+    border: none;
+    width: 70px;
+}
+
+.left-container span{
+    margin: 20px;
+}
+
+
+.text-container{
+    margin: 5px 5px 0px 2px;
+}
+
+.text-area{
+    height: 80vh;
+    width: 69vh;
+    border: none;
+}
+
+.icon{
+    font-size: 20px;
+}

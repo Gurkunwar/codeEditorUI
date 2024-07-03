@@ -1,0 +1,20 @@
+.nav-container{
+    border: 1px solid #0000EE;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+}
+
+.clear-btn{
+    background-color: #0000EE;
+    color: white;
+    width: 70px;
+    height: 30px;
+    margin-right: 5px;
+    border: none;
+}
+
+.nav-container span{
+    margin: 20px;
+}
